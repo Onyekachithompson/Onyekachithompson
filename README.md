@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onyekachithompson
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python and html
+- 👀 I’m interested in learning programming languages
+- 🌱 I’m currently learning python, html, php, java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : contact me on github from Onyekachithompson and on facebook at programmers option..
 
