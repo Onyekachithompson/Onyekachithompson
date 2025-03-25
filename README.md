@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Onyekachithompson
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning python, html, php, java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : contact me on github from Onyekachithompson and on facebook at programmers option..
+ 🌱 🚀 Hello Guys!
 
-<!---
-Onyekachithompson/Onyekachithompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Israel Thompson, a Web3 Developer | Project Manager | Python Developer passionate about building the future with code. 🔥
+
+On this page, I'll share:
+✅ Web3 insights
+✅ Python & development tips
+✅ Project management strategies
+✅ Tech innovations
+
+Let’s connect and build something great together! Drop a 👋 if you're in Web3 or tech! #Web3 #Python #Tech
+- 💞️
+- 📫 
